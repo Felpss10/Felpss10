@@ -14,7 +14,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) e de **Te
 
 Meu objetivo é unir **engenharia de software** a soluções de **alto impacto**, com foco em **transformar a educação** e **impulsionar o crescimento de empresas no Brasil**.
 
-Como ex-professor de música, trago para o código:
+Como professor de música, trago para o código:
 - 🧠 Pensamento lógico e estruturado
 - 🎓 Didática para resolver problemas complexos com clareza
 - 🏗️ Foco em arquiteturas eficientes, escaláveis e centradas no usuário
