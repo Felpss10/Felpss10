@@ -1,74 +1,86 @@
-<h1 align="center">Olá, eu sou Felipe Santos 👋</h1>
+<h1 align="center">Hi, I'm Felipe Santos 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack em formação | Estudante de ADS & Teologia</h3>
+<h3 align="center">Junior Full Stack Developer · Java · JavaScript · Python · C# | Systems Analysis & Development Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Transformando+educa%C3%A7%C3%A3o+com+tecnologia;Do+ensino+de+m%C3%BAsica+%C3%A0+l%C3%B3gica+de+programa%C3%A7%C3%A3o;Aprendendo+e+construindo+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Junior+Full+Stack+Developer;Coding+every+day+%F0%9F%9A%80;Open+to+remote+%26+international+roles+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎯 Sobre mim
+### 🎯 About me
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (2º semestre) e de **Teologia**, em transição de carreira da educação musical para o desenvolvimento de software.
+I'm a **Systems Analysis and Development** student (Unicesumar, graduating 2028) building a career as a **full stack developer**, and I'm **open to remote roles with international teams**.
 
-Meu objetivo é unir **engenharia de software** a soluções de **alto impacto**, com foco em **transformar a educação** e **impulsionar o crescimento de empresas no Brasil**.
+I code every day, focused on strong fundamentals: **programming logic, algorithms and object-oriented programming** in **Java** and **C#**, plus **Python**, **C** and **JavaScript**. On the front end I work with semantic **HTML5** and modern **CSS** (Flexbox, custom properties, scroll-snap), and I version everything with **Git & GitHub**. I also use AI tools (Claude, vibe coding) to prototype faster and learn more deeply.
 
-Como professor de música, trago para o código:
-- 🧠 Pensamento lógico e estruturado
-- 🎓 Didática para resolver problemas complexos com clareza
-- 🏗️ Foco em arquiteturas eficientes, escaláveis e centradas no usuário
-
----
-
-### 💼 O que estou fazendo agora
-
-- 🔭 Estudando e aprimorando minhas habilidades em **front-end e back-end**
-- 🌱 Aprofundando meus estudos em **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvendo **projetos freelancer**
-- 🎯 Buscando minha **primeira oportunidade** no mercado de desenvolvimento
-- 🎵 Dando aulas de música — porque tecnologia e educação juntas mudam vidas
+Before tech, I spent years teaching music and working in customer service and B2B sales. That taught me to:
+- 🧠 Break complex problems into clear, logical steps
+- 🎓 Explain technical ideas simply
+- 🤝 Listen to users and learn fast
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### 🚀 Featured projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [**ML Materiais Elétricos**](https://github.com/Felpss10/ML-Materiais-El-tricos) | HTML5 · CSS3 · Git | Company landing page built from scratch: navigation, quote CTA, cards, product showcase with a scroll-snap carousel, and brand identity with CSS variables. |
+| [**JMA Eletric Redesign**](https://jmaeletric.com.br) | WordPress | Ongoing redesign of the company website, section by section, for a clearer and more professional presentation. |
+
+---
+
+### 💼 What I'm doing now
+
+- 🔭 Learning **Java** in depth (**Spring Boot** next) and **SQL / databases**
+- ⚛️ Getting started with **React**
+- 🌍 Improving my **English** for international work
+- 🎯 Looking for a **Junior / Intern** role (Full Stack, Front-end or Back-end), **remote worldwide** or São Paulo
+
+---
+
+### 🛠️ Tech stack
 
 <p align="left">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="Claude" height="40" width="40" src="https://cdn.simpleicons.org/claude" />
+<img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+<img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="center" alt="WordPress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" />
+<img align="center" alt="Claude" height="40" width="40" src="https://cdn.simpleicons.org/claude" />
 </p>
+
+**Learning next:** Spring Boot · SQL · React
 
 ---
 
-### 📊 GitHub Stats
-
+### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felpss10&theme=tokyonight&hide_border=true" alt="streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felpss10&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 ---
 
-### 📫 Vamos nos conectar
+### 📫 Let's connect
 
 <div align="center">
-  <a href="https://instagram.com/_felpss10" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:felipe.deoliveirasantos06@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/felpss10" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+<a href="https://www.linkedin.com/in/felpss10" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="mailto:felipe.deoliveirasantos06@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://instagram.com/_felpss10" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Felpss10&color=blue&style=flat" alt="visitor badge" />
+<img src="https://komarev.com/ghpvc/?username=Felpss10&color=blue&style=flat" alt="visitor badge" />
 </p>
